@@ -1,320 +1,12 @@
 [
-  {
-    "id": "2",
-    "name": "Prestige Iris Plus 750 W Mixer Grinder With 4 Jars (3 Stainless Steel Jars+ 1 Juicer Jar) 4 Super Ef",
-    "mainimg": "https://m.media-amazon.com/images/I/51ZykaL8q6L._SL1200_.jpg",
-    "dis": "88%",
-    "total": "₹2,998",
-    "disprice": "₹1",
-    "slide": [
-      "https://m.media-amazon.com/images/I/51ZykaL8q6L._SL1200_.jpg",
-      "https://m.media-amazon.com/images/I/617BJXmORxL._SL1200_.jpg",
-      "https://m.media-amazon.com/images/I/61lJ2DxhtBL._SL1000_.jpg"
-    ],
-    "trending": false,
-    "reviews": [
-      {
-        "rating": 5,
-        "title": "Excellent Grinder",
-        "text": "Blends smoothly and handles tough ingredients effortlessly. Very satisfied.",
-        "buyerName": "Rohit Mehra",
-        "verified": true,
-        "location": "Pune",
-        "daysAgo": "1 day ago",
-        "images": [
-          "https://m.media-amazon.com/images/I/51ZykaL8q6L._SL1200_.jpg"
-        ]
-      },
-      {
-        "rating": 4,
-        "title": "Very Efficient",
-        "text": "Compact, easy to clean, and powerful. Works well for my daily needs.",
-        "buyerName": "Neha Gupta",
-        "verified": true,
-        "location": "Bangalore",
-        "daysAgo": "2 days ago",
-        "images": [
-          "https://m.media-amazon.com/images/I/51ZykaL8q6L._SL1200_.jpg"
-        ]
-      },
-      {
-        "rating": 5,
-        "title": "Powerful & Reliable",
-        "text": "Handles grinding, blending, and juicing effortlessly. Highly recommend.",
-        "buyerName": "Aarav Deshmukh",
-        "verified": true,
-        "location": "Chennai",
-        "daysAgo": "1 day ago",
-        "images": [
-          "https://m.media-amazon.com/images/I/51ZykaL8q6L._SL1200_.jpg"
-        ]
-      },
-      {
-        "rating": 5,
-        "title": "Best Mixer Grinder",
-        "text": "Very sturdy and efficient. Works perfectly for everyday use.",
-        "buyerName": "Ishita Sharma",
-        "verified": true,
-        "location": "Kolkata",
-        "daysAgo": "2 days ago",
-        "images": [
-          "https://m.media-amazon.com/images/I/51ZykaL8q6L._SL1200_.jpg"
-        ]
-      },
-      {
-        "rating": 4,
-        "title": "Great Value",
-        "text": "Affordable and reliable. Does the job well and easy to maintain.",
-        "buyerName": "Vivaan Rathi",
-        "verified": true,
-        "location": "Ahmedabad",
-        "daysAgo": "1 day ago",
-        "images": [
-          "https://m.media-amazon.com/images/I/51ZykaL8q6L._SL1200_.jpg"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "30",
-    "name": "BAJAJ Military 1000 W Mixer Grinder  (Evoque 4 Jar 1000W Jet Black Mixer Grinder | 4 Jars | Black & Copper)k",
-    "mainimg": "https://www.bajajelectricals.com/cdn/shop/files/B0CZTM39NC_MAIN_jpg.jpg",
-    "dis": "93%",
-    "total": "₹6,790",
-    "disprice": "₹493",
-    "slide": [
-      "https://www.bajajelectricals.com/cdn/shop/files/B0CZTM39NC_MAIN_jpg.jpg",
-      "https://www.bajajelectricals.com/cdn/shop/files/B0CZTM39NC_PT01_jpg.jpg",
-      "https://www.bajajelectricals.com/cdn/shop/files/B0CZTM39NC_PT02_jpg.jpg",
-      "https://www.bajajelectricals.com/cdn/shop/files/B0CZTM39NC_PT03_jpg.jpg",
-      "https://www.bajajelectricals.com/cdn/shop/files/B0CZTM39NC_PT04_jpg.jpg",
-      "https://www.bajajelectricals.com/cdn/shop/files/B0CZTM39NC_PT05_jpg.jpg"
-    ],
-    "trending": true,
-    "reviews": [
-      {
-        "rating": 5,
-        "title": "Excellent performance!",
-        "text": "The motor is powerful and grinds spices smoothly in seconds. Very useful for daily kitchen work. Totally worth the price.",
-        "buyerName": "Aditya More",
-        "verified": true,
-        "location": "Bangalore",
-        "daysAgo": "1 day ago",
-        "images": [
-          "https://www.bajajelectricals.com/cdn/shop/files/B0CZTM39NC_MAIN_jpg.jpg"
-        ]
-      },
-      {
-        "rating": 4,
-        "title": "Highly Recommended",
-        "text": "Good build quality and easy to use. Slightly noisy but works well.",
-        "buyerName": "Neha Bhatia",
-        "verified": true,
-        "location": "Chennai",
-        "daysAgo": "2 days ago",
-        "images": [
-          "https://www.bajajelectricals.com/cdn/shop/files/B0CZTM39NC_MAIN_jpg.jpg"
-        ]
-      },
-      {
-        "rating": 5,
-        "title": "Perfect for Indian cooking",
-        "text": "Perfect for making masala and chutney. Strong and reliable.",
-        "buyerName": "Reena Deshmukh",
-        "verified": true,
-        "location": "Pune",
-        "daysAgo": "1 day ago",
-        "images": [
-          "https://www.bajajelectricals.com/cdn/shop/files/B0CZTM39NC_MAIN_jpg.jpg"
-        ]
-      },
-      {
-        "rating": 5,
-        "title": "Value for money.",
-        "text": "Value for money with sharp blades and good performance.",
-        "buyerName": "Arjun Sharma",
-        "verified": true,
-        "location": "Kolkata",
-        "daysAgo": "2 days ago",
-        "images": [
-          "https://www.bajajelectricals.com/cdn/shop/files/B0CZTM39NC_MAIN_jpg.jpg"
-        ]
-      },
-      {
-        "rating": 4,
-        "title": "Best Buy",
-        "text": "Compact, powerful, and efficient. Highly recommended..",
-        "buyerName": "Vivaan Shah",
-        "verified": true,
-        "location": "Ahmedabad",
-        "daysAgo": "1 day ago",
-        "images": [
-          "https://www.bajajelectricals.com/cdn/shop/files/B0CZTM39NC_MAIN_jpg.jpg"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "1",
-    "name": "Prestige 5 Litres Svachh Nakshatra Plus Induction Base Inner Lid Hard Anodised Pressure Handi | Black",
-    "mainimg": "https://m.media-amazon.com/images/I/713Kl1I0CyL._SL1500_.jpg",
-    "dis": "93%",
-    "total": "₹4,155",
-    "disprice": "₹345",
-    "slide": [
-      "https://m.media-amazon.com/images/I/713Kl1I0CyL._SL1500_.jpg",
-      "https://m.media-amazon.com/images/I/61stfFZduNL._SL1000_.jpg",
-      "https://m.media-amazon.com/images/I/61d5WlFUjUL._SL1000_.jpg",
-      "https://m.media-amazon.com/images/I/61ZTSJHk9EL._SL1000_.jpg"
-    ],
-    "trending": true,
-    "reviews": [
-      {
-        "rating": 5,
-        "title": "Excellent Pressure Handi",
-        "text": "Heats evenly and cooks food perfectly. Very happy with this purchase.",
-        "buyerName": "Aditya Mehra",
-        "verified": true,
-        "location": "Bangalore",
-        "daysAgo": "1 day ago",
-        "images": [
-          "https://m.media-amazon.com/images/I/713Kl1I0CyL._SL1500_.jpg"
-        ]
-      },
-      {
-        "rating": 4,
-        "title": "Highly Recommended",
-        "text": "Strong and durable. Very convenient for daily cooking.",
-        "buyerName": "Neha Kapoor",
-        "verified": true,
-        "location": "Chennai",
-        "daysAgo": "2 days ago",
-        "images": [
-          "https://m.media-amazon.com/images/I/713Kl1I0CyL._SL1500_.jpg"
-        ]
-      },
-      {
-        "rating": 5,
-        "title": "Very Efficient",
-        "text": "Handles pressure cooking perfectly. Saves time and energy.",
-        "buyerName": "Rohan Deshmukh",
-        "verified": true,
-        "location": "Pune",
-        "daysAgo": "1 day ago",
-        "images": [
-          "https://m.media-amazon.com/images/I/713Kl1I0CyL._SL1500_.jpg"
-        ]
-      },
-      {
-        "rating": 5,
-        "title": "Sturdy & Reliable",
-        "text": "High-quality build and easy to clean. Great addition to my kitchen.",
-        "buyerName": "Ananya Sharma",
-        "verified": true,
-        "location": "Kolkata",
-        "daysAgo": "2 days ago",
-        "images": [
-          "https://m.media-amazon.com/images/I/713Kl1I0CyL._SL1500_.jpg"
-        ]
-      },
-      {
-        "rating": 4,
-        "title": "Best Buy",
-        "text": "Affordable and efficient. Works exactly as described.",
-        "buyerName": "Vivaan Rathi",
-        "verified": true,
-        "location": "Ahmedabad",
-        "daysAgo": "1 day ago",
-        "images": [
-          "https://m.media-amazon.com/images/I/713Kl1I0CyL._SL1500_.jpg"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "25",
-    "name": "Havells Instanio 3L Instant Water Heater(Geyser)| Temp. Sensing LED Indicator| Rust & Shock Proof Body| ISI Marked|Warranty: 5 year on Inner Tank| High Rise Compatible (White Blue)",
-    "mainimg": "https://m.media-amazon.com/images/I/51+Bh5W2orL._SL1500_.jpg",
-    "dis": "92%",
-    "total": "₹4,500",
-    "disprice": "₹495",
-    "slide": [
-      "https://m.media-amazon.com/images/I/51+Bh5W2orL._SL1500_.jpg",
-      "https://m.media-amazon.com/images/I/61Zzls2GPpL._SL1500_.jpg",
-      "https://m.media-amazon.com/images/I/71B5mkKd1AL._SL1500_.jpg",
-      "https://m.media-amazon.com/images/I/71rjGCcXogL._SL1500_.jpg"
-    ],
-    "trending": false,
-    "reviews": [
-      {
-        "rating": 5,
-        "title": "Superb Performance",
-        "text": "Heats evenly and cooks perfectly every time. Very happy with the purchase.",
-        "buyerName": "Aarav Reddy",
-        "verified": true,
-        "location": "Hyderabad",
-        "daysAgo": "1 day ago",
-        "images": [
-          "https://m.media-amazon.com/images/I/51+Bh5W2orL._SL1500_.jpg"
-        ]
-      },
-      {
-        "rating": 4,
-        "title": "Very Useful",
-        "text": "Compact design and easy to operate. Works great for my family.",
-        "buyerName": "Ishita Kapoor",
-        "verified": true,
-        "location": "Ahmedabad",
-        "daysAgo": "2 days ago",
-        "images": [
-          "https://m.media-amazon.com/images/I/51+Bh5W2orL._SL1500_.jpg"
-        ]
-      },
-      {
-        "rating": 5,
-        "title": "Excellent Appliance",
-        "text": "Love the convection feature.",
-        "buyerName": "Vivaan Malhotra",
-        "verified": true,
-        "location": "Chandigarh",
-        "daysAgo": "1 day ago",
-        "images": [
-          "https://m.media-amazon.com/images/I/51+Bh5W2orL._SL1500_.jpg"
-        ]
-      },
-      {
-        "rating": 5,
-        "title": "Highly Recommend",
-        "text": "Stylish, efficient, and easy to clean. Worth every rupee.",
-        "buyerName": "Ananya Desai",
-        "verified": true,
-        "location": "Bhopal",
-        "daysAgo": "2 days ago",
-        "images": [
-          "https://m.media-amazon.com/images/I/51+Bh5W2orL._SL1500_.jpg"
-        ]
-      },
-      {
-        "rating": 4,
-        "title": "Good Value",
-        "text": "Does the job perfectly.",
-        "buyerName": "Ritvik Sharma",
-        "verified": true,
-        "location": "Surat",
-        "daysAgo": "1 day ago",
-        "images": [
-          "https://m.media-amazon.com/images/I/51+Bh5W2orL._SL1500_.jpg"
-        ]
-      }
-    ]
-  },
+ 
   {
     "id": "19",
     "name": "Prestige Marvel Plus 3 Burner Glass Top, GTM 03, Black, Manual Ignition",
     "mainimg": "https://m.media-amazon.com/images/I/61P68DGuI0L._SX679_.jpg",
     "dis": "98%",
     "total": "₹5,999",
-    "disprice": "₹395",
+    "disprice": "₹398",
     "slide": [
       "https://m.media-amazon.com/images/I/61P68DGuI0L._SX679_.jpg",
       "https://m.media-amazon.com/images/I/71hF7N3zE4L._SX679_.jpg",
@@ -390,7 +82,7 @@
     "mainimg": "https://m.media-amazon.com/images/I/51EkDUQ-8sL._SL1080_.jpg",
     "dis": "92%",
     "total": "₹5,749",
-    "disprice": "₹380",
+    "disprice": "₹398",
     "slide": [
       "https://m.media-amazon.com/images/I/51EkDUQ-8sL._SL1080_.jpg",
       "https://m.media-amazon.com/images/I/51FFYYW6XpL._SL1080_.jpg",
@@ -463,12 +155,477 @@
     ]
   },
   {
+    "id": "2",
+    "name": "Prestige Iris Plus 750 W Mixer Grinder With 4 Jars (3 Stainless Steel Jars+ 1 Juicer Jar) 4 Super Ef",
+    "mainimg": "https://m.media-amazon.com/images/I/51ZykaL8q6L._SL1200_.jpg",
+    "dis": "88%",
+    "total": "₹2,998",
+    "disprice": "₹358",
+    "slide": [
+      "https://m.media-amazon.com/images/I/51ZykaL8q6L._SL1200_.jpg",
+      "https://m.media-amazon.com/images/I/617BJXmORxL._SL1200_.jpg",
+      "https://m.media-amazon.com/images/I/61lJ2DxhtBL._SL1000_.jpg"
+    ],
+    "trending": false,
+    "reviews": [
+      {
+        "rating": 5,
+        "title": "Excellent Grinder",
+        "text": "Blends smoothly and handles tough ingredients effortlessly. Very satisfied.",
+        "buyerName": "Rohit Mehra",
+        "verified": true,
+        "location": "Pune",
+        "daysAgo": "1 day ago",
+        "images": [
+          "https://m.media-amazon.com/images/I/51ZykaL8q6L._SL1200_.jpg"
+        ]
+      },
+      {
+        "rating": 4,
+        "title": "Very Efficient",
+        "text": "Compact, easy to clean, and powerful. Works well for my daily needs.",
+        "buyerName": "Neha Gupta",
+        "verified": true,
+        "location": "Bangalore",
+        "daysAgo": "2 days ago",
+        "images": [
+          "https://m.media-amazon.com/images/I/51ZykaL8q6L._SL1200_.jpg"
+        ]
+      },
+      {
+        "rating": 5,
+        "title": "Powerful & Reliable",
+        "text": "Handles grinding, blending, and juicing effortlessly. Highly recommend.",
+        "buyerName": "Aarav Deshmukh",
+        "verified": true,
+        "location": "Chennai",
+        "daysAgo": "1 day ago",
+        "images": [
+          "https://m.media-amazon.com/images/I/51ZykaL8q6L._SL1200_.jpg"
+        ]
+      },
+      {
+        "rating": 5,
+        "title": "Best Mixer Grinder",
+        "text": "Very sturdy and efficient. Works perfectly for everyday use.",
+        "buyerName": "Ishita Sharma",
+        "verified": true,
+        "location": "Kolkata",
+        "daysAgo": "2 days ago",
+        "images": [
+          "https://m.media-amazon.com/images/I/51ZykaL8q6L._SL1200_.jpg"
+        ]
+      },
+      {
+        "rating": 4,
+        "title": "Great Value",
+        "text": "Affordable and reliable. Does the job well and easy to maintain.",
+        "buyerName": "Vivaan Rathi",
+        "verified": true,
+        "location": "Ahmedabad",
+        "daysAgo": "1 day ago",
+        "images": [
+          "https://m.media-amazon.com/images/I/51ZykaL8q6L._SL1200_.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1",
+    "name": "Prestige 5 Litres Svachh Nakshatra Plus Induction Base Inner Lid Hard Anodised Pressure Handi | Black",
+    "mainimg": "https://m.media-amazon.com/images/I/713Kl1I0CyL._SL1500_.jpg",
+    "dis": "93%",
+    "total": "₹4,155",
+    "disprice": "₹348",
+    "slide": [
+      "https://m.media-amazon.com/images/I/713Kl1I0CyL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61stfFZduNL._SL1000_.jpg",
+      "https://m.media-amazon.com/images/I/61d5WlFUjUL._SL1000_.jpg",
+      "https://m.media-amazon.com/images/I/61ZTSJHk9EL._SL1000_.jpg"
+    ],
+    "trending": true,
+    "reviews": [
+      {
+        "rating": 5,
+        "title": "Excellent Pressure Handi",
+        "text": "Heats evenly and cooks food perfectly. Very happy with this purchase.",
+        "buyerName": "Aditya Mehra",
+        "verified": true,
+        "location": "Bangalore",
+        "daysAgo": "1 day ago",
+        "images": [
+          "https://m.media-amazon.com/images/I/713Kl1I0CyL._SL1500_.jpg"
+        ]
+      },
+      {
+        "rating": 4,
+        "title": "Highly Recommended",
+        "text": "Strong and durable. Very convenient for daily cooking.",
+        "buyerName": "Neha Kapoor",
+        "verified": true,
+        "location": "Chennai",
+        "daysAgo": "2 days ago",
+        "images": [
+          "https://m.media-amazon.com/images/I/713Kl1I0CyL._SL1500_.jpg"
+        ]
+      },
+      {
+        "rating": 5,
+        "title": "Very Efficient",
+        "text": "Handles pressure cooking perfectly. Saves time and energy.",
+        "buyerName": "Rohan Deshmukh",
+        "verified": true,
+        "location": "Pune",
+        "daysAgo": "1 day ago",
+        "images": [
+          "https://m.media-amazon.com/images/I/713Kl1I0CyL._SL1500_.jpg"
+        ]
+      },
+      {
+        "rating": 5,
+        "title": "Sturdy & Reliable",
+        "text": "High-quality build and easy to clean. Great addition to my kitchen.",
+        "buyerName": "Ananya Sharma",
+        "verified": true,
+        "location": "Kolkata",
+        "daysAgo": "2 days ago",
+        "images": [
+          "https://m.media-amazon.com/images/I/713Kl1I0CyL._SL1500_.jpg"
+        ]
+      },
+      {
+        "rating": 4,
+        "title": "Best Buy",
+        "text": "Affordable and efficient. Works exactly as described.",
+        "buyerName": "Vivaan Rathi",
+        "verified": true,
+        "location": "Ahmedabad",
+        "daysAgo": "1 day ago",
+        "images": [
+          "https://m.media-amazon.com/images/I/713Kl1I0CyL._SL1500_.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "30",
+    "name": "BAJAJ Military 1000 W Mixer Grinder  (Evoque 4 Jar 1000W Jet Black Mixer Grinder | 4 Jars | Black & Copper)k",
+    "mainimg": "https://www.bajajelectricals.com/cdn/shop/files/B0CZTM39NC_MAIN_jpg.jpg",
+    "dis": "93%",
+    "total": "₹6,790",
+    "disprice": "₹498",
+    "slide": [
+      "https://www.bajajelectricals.com/cdn/shop/files/B0CZTM39NC_MAIN_jpg.jpg",
+      "https://www.bajajelectricals.com/cdn/shop/files/B0CZTM39NC_PT01_jpg.jpg",
+      "https://www.bajajelectricals.com/cdn/shop/files/B0CZTM39NC_PT02_jpg.jpg",
+      "https://www.bajajelectricals.com/cdn/shop/files/B0CZTM39NC_PT03_jpg.jpg",
+      "https://www.bajajelectricals.com/cdn/shop/files/B0CZTM39NC_PT04_jpg.jpg",
+      "https://www.bajajelectricals.com/cdn/shop/files/B0CZTM39NC_PT05_jpg.jpg"
+    ],
+    "trending": true,
+    "reviews": [
+      {
+        "rating": 5,
+        "title": "Excellent performance!",
+        "text": "The motor is powerful and grinds spices smoothly in seconds. Very useful for daily kitchen work. Totally worth the price.",
+        "buyerName": "Aditya More",
+        "verified": true,
+        "location": "Bangalore",
+        "daysAgo": "1 day ago",
+        "images": [
+          "https://www.bajajelectricals.com/cdn/shop/files/B0CZTM39NC_MAIN_jpg.jpg"
+        ]
+      },
+      {
+        "rating": 4,
+        "title": "Highly Recommended",
+        "text": "Good build quality and easy to use. Slightly noisy but works well.",
+        "buyerName": "Neha Bhatia",
+        "verified": true,
+        "location": "Chennai",
+        "daysAgo": "2 days ago",
+        "images": [
+          "https://www.bajajelectricals.com/cdn/shop/files/B0CZTM39NC_MAIN_jpg.jpg"
+        ]
+      },
+      {
+        "rating": 5,
+        "title": "Perfect for Indian cooking",
+        "text": "Perfect for making masala and chutney. Strong and reliable.",
+        "buyerName": "Reena Deshmukh",
+        "verified": true,
+        "location": "Pune",
+        "daysAgo": "1 day ago",
+        "images": [
+          "https://www.bajajelectricals.com/cdn/shop/files/B0CZTM39NC_MAIN_jpg.jpg"
+        ]
+      },
+      {
+        "rating": 5,
+        "title": "Value for money.",
+        "text": "Value for money with sharp blades and good performance.",
+        "buyerName": "Arjun Sharma",
+        "verified": true,
+        "location": "Kolkata",
+        "daysAgo": "2 days ago",
+        "images": [
+          "https://www.bajajelectricals.com/cdn/shop/files/B0CZTM39NC_MAIN_jpg.jpg"
+        ]
+      },
+      {
+        "rating": 4,
+        "title": "Best Buy",
+        "text": "Compact, powerful, and efficient. Highly recommended..",
+        "buyerName": "Vivaan Shah",
+        "verified": true,
+        "location": "Ahmedabad",
+        "daysAgo": "1 day ago",
+        "images": [
+          "https://www.bajajelectricals.com/cdn/shop/files/B0CZTM39NC_MAIN_jpg.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "21",
+    "name": "Hawkins 3 Litre Contura Black Pressure Cooker, Hard Anodised Inner Lid Cooker, Handi Cooker, Black (CB30)",
+    "mainimg": "https://m.media-amazon.com/images/I/61xsscK90-L._SX522_.jpg",
+    "dis": "95%",
+    "total": "₹3,499",
+    "disprice": "₹328",
+    "slide": [
+      "https://m.media-amazon.com/images/I/61xsscK90-L._SX522_.jpg",
+      "https://m.media-amazon.com/images/I/61FzoEUcHDL._SX679_.jpg",
+      "https://m.media-amazon.com/images/I/71r1-FW-RFL._SX679_.jpg",
+      "https://m.media-amazon.com/images/I/611vygBfJ0L._SX679_.jpg",
+      "https://m.media-amazon.com/images/I/61BXlRLrFXL._SX679_.jpg",
+      "https://m.media-amazon.com/images/I/61JojZU6m4L._SX679_.jpg"
+    ],
+    "trending": true,
+    "reviews": [
+      {
+        "rating": 5,
+        "title": "Excellent quality and finish!",
+        "text": "The saucepan feels premium and cooks evenly. Cleaning is super easy, and it looks elegant on the table.",
+        "buyerName": "Anjali Rao",
+        "verified": true,
+        "location": "Pune",
+        "daysAgo": "1 day ago",
+        "images": [
+          "https://m.media-amazon.com/images/I/61xsscK90-L._SX522_.jpg"
+        ]
+      },
+      {
+        "rating": 4,
+        "title": "Worth every penny",
+        "text": "Build quality is top-notch. The lid fits snugly, and it retains heat well. Great for slow cooking.",
+        "buyerName": "Rahul Sharma",
+        "verified": true,
+        "location": "Delhi",
+        "daysAgo": "2 days ago",
+        "images": [
+          "https://m.media-amazon.com/images/I/61xsscK90-L._SX522_.jpg"
+        ]
+      },
+      {
+        "rating": 5,
+        "title": "Perfect for family meals",
+        "text": "Ideal size for cooking for 3–4 people. I’ve used it for gravies, soups, and rice — performs flawlessly.",
+        "buyerName": "Meena Gupta",
+        "verified": true,
+        "location": "Bangalore",
+        "daysAgo": "2 days ago",
+        "images": [
+          "https://m.media-amazon.com/images/I/61xsscK90-L._SX522_.jpg"
+        ]
+      },
+      {
+        "rating": 5,
+        "title": "Very durable and elegant",
+        "text": "Been using it daily for two weeks — absolutely love the non-stick performance and sleek design.",
+        "buyerName": "Vikas Jain",
+        "verified": true,
+        "location": "Jaipur",
+        "daysAgo": "1 day ago",
+        "images": [
+          "https://m.media-amazon.com/images/I/61xsscK90-L._SX522_.jpg"
+        ]
+      },
+      {
+        "rating": 4.5,
+        "title": "Good product for daily cooking",
+        "text": "The handle stays cool and comfortable to hold. A bit heavy, but that’s what makes it solid and reliable.",
+        "buyerName": "Priya Nair",
+        "verified": true,
+        "location": "Chennai",
+        "daysAgo": "1 day ago",
+        "images": [
+          "https://m.media-amazon.com/images/I/61xsscK90-L._SX522_.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "25",
+    "name": "Havells Instanio 3L Instant Water Heater(Geyser)| Temp. Sensing LED Indicator| Rust & Shock Proof Body| ISI Marked|Warranty: 5 year on Inner Tank| High Rise Compatible (White Blue)",
+    "mainimg": "https://m.media-amazon.com/images/I/51+Bh5W2orL._SL1500_.jpg",
+    "dis": "92%",
+    "total": "₹4,500",
+    "disprice": "₹498",
+    "slide": [
+      "https://m.media-amazon.com/images/I/51+Bh5W2orL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61Zzls2GPpL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71B5mkKd1AL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71rjGCcXogL._SL1500_.jpg"
+    ],
+    "trending": false,
+    "reviews": [
+      {
+        "rating": 5,
+        "title": "Superb Performance",
+        "text": "Heats evenly and cooks perfectly every time. Very happy with the purchase.",
+        "buyerName": "Aarav Reddy",
+        "verified": true,
+        "location": "Hyderabad",
+        "daysAgo": "1 day ago",
+        "images": [
+          "https://m.media-amazon.com/images/I/51+Bh5W2orL._SL1500_.jpg"
+        ]
+      },
+      {
+        "rating": 4,
+        "title": "Very Useful",
+        "text": "Compact design and easy to operate. Works great for my family.",
+        "buyerName": "Ishita Kapoor",
+        "verified": true,
+        "location": "Ahmedabad",
+        "daysAgo": "2 days ago",
+        "images": [
+          "https://m.media-amazon.com/images/I/51+Bh5W2orL._SL1500_.jpg"
+        ]
+      },
+      {
+        "rating": 5,
+        "title": "Excellent Appliance",
+        "text": "Love the convection feature.",
+        "buyerName": "Vivaan Malhotra",
+        "verified": true,
+        "location": "Chandigarh",
+        "daysAgo": "1 day ago",
+        "images": [
+          "https://m.media-amazon.com/images/I/51+Bh5W2orL._SL1500_.jpg"
+        ]
+      },
+      {
+        "rating": 5,
+        "title": "Highly Recommend",
+        "text": "Stylish, efficient, and easy to clean. Worth every rupee.",
+        "buyerName": "Ananya Desai",
+        "verified": true,
+        "location": "Bhopal",
+        "daysAgo": "2 days ago",
+        "images": [
+          "https://m.media-amazon.com/images/I/51+Bh5W2orL._SL1500_.jpg"
+        ]
+      },
+      {
+        "rating": 4,
+        "title": "Good Value",
+        "text": "Does the job perfectly.",
+        "buyerName": "Ritvik Sharma",
+        "verified": true,
+        "location": "Surat",
+        "daysAgo": "1 day ago",
+        "images": [
+          "https://m.media-amazon.com/images/I/51+Bh5W2orL._SL1500_.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "name": "Elica Vetro Glass Top 4 Burner Auto Ignition Gas Stove (694 CT VETRO SS AI), Black",
+    "mainimg": "https://m.media-amazon.com/images/I/71RX6d+02hL._SL1500_.jpg",
+    "dis": "89%",
+    "total": "₹3,599",
+    "disprice": "₹398",
+    "slide": [
+      "https://m.media-amazon.com/images/I/71RX6d+02hL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/41JG23kNZsL.jpg",
+      "https://m.media-amazon.com/images/I/81PvyDtut2L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/814acYpRWGL._SL1500_.jpg"
+    ],
+    "trending": false,
+    "reviews": [
+      {
+        "rating": 5,
+        "title": "Excellent Design",
+        "text": "The burners heat up evenly and the glass top looks premium. Very happy with it!",
+        "buyerName": "Ritika Singh",
+        "verified": true,
+        "location": "Bangalore",
+        "daysAgo": "1 day ago",
+        "images": [
+          "https://m.media-amazon.com/images/I/71RX6d+02hL._SL1500_.jpg"
+        ]
+      },
+      {
+        "rating": 4,
+        "title": "Good for Daily Use",
+        "text": "Simple to clean and use. Perfect for everyday cooking in a small kitchen.",
+        "buyerName": "Arjun Mehta",
+        "verified": true,
+        "location": "Delhi",
+        "daysAgo": "2 days ago",
+        "images": [
+          "https://m.media-amazon.com/images/I/71RX6d+02hL._SL1500_.jpg"
+        ]
+      },
+      {
+        "rating": 5,
+        "title": "Highly Functional",
+        "text": "Auto ignition works flawlessly and the burners are efficient. Very satisfied!",
+        "buyerName": "Sneha Kapoor",
+        "verified": true,
+        "location": "Kolkata",
+        "daysAgo": "1 day ago",
+        "images": [
+          "https://m.media-amazon.com/images/I/71RX6d+02hL._SL1500_.jpg"
+        ]
+      },
+      {
+        "rating": 5,
+        "title": "Stylish & Durable",
+        "text": "Glass top gives a modern look. Sturdy and easy to maintain. Excellent purchase!",
+        "buyerName": "Rohan Pillai",
+        "verified": true,
+        "location": "Chennai",
+        "daysAgo": "2 days ago",
+        "images": [
+          "https://m.media-amazon.com/images/I/71RX6d+02hL._SL1500_.jpg"
+        ]
+      },
+      {
+        "rating": 4,
+        "title": "Value for Money",
+        "text": "Works well for my family of four. Looks elegant on the countertop.",
+        "buyerName": "Anita Sharma",
+        "verified": true,
+        "location": "Pune",
+        "daysAgo": "1 day ago",
+        "images": [
+          "https://m.media-amazon.com/images/I/71RX6d+02hL._SL1500_.jpg"
+        ]
+      }
+    ]
+  },
+  {
     "id": "17",
     "name": "Sujata Powermatic Maxima Juicer Mixer Grinder|900 Watts | 3 Jars including 1750ml Blender, 1000ml Grinder, 500ml Chutney Jar",
     "mainimg": "https://m.media-amazon.com/images/I/613vxrmxdiL._SX679_.jpg",
     "dis": "95%",
     "total": "₹6,065",
-    "disprice": "₹389",
+    "disprice": "₹388",
     "slide": [
       "https://m.media-amazon.com/images/I/613vxrmxdiL._SX679_.jpg",
       "https://m.media-amazon.com/images/I/71FYtdprkjL._SX679_.jpg",
@@ -545,7 +702,7 @@
     "mainimg": "https://m.media-amazon.com/images/I/61cAuha5eyL._SL1100_.jpg",
     "dis": "90%",
     "total": "₹3,544",
-    "disprice": "₹339",
+    "disprice": "₹338",
     "slide": [
       "https://m.media-amazon.com/images/I/61cAuha5eyL._SL1100_.jpg",
       "https://m.media-amazon.com/images/I/61Sy7kLwf2L._SL1100_.jpg",
@@ -622,7 +779,7 @@
     "mainimg": "https://m.media-amazon.com/images/I/71TKAx1ePFL._SL1500_.jpg",
     "dis": "92%",
     "total": "₹3,749",
-    "disprice": "₹380",
+    "disprice": "₹378",
     "slide": [
       "https://m.media-amazon.com/images/I/71TKAx1ePFL._SL1500_.jpg",
       "https://m.media-amazon.com/images/I/71wRGs0UfpL._SL1500_.jpg",
@@ -699,7 +856,7 @@
     "mainimg": "https://m.media-amazon.com/images/I/41-x2RfNFvL.jpg",
     "dis": "92%",
     "total": "₹3,749",
-    "disprice": "₹349",
+    "disprice": "₹348",
     "slide": [
       "https://m.media-amazon.com/images/I/41-x2RfNFvL.jpg",
       "https://m.media-amazon.com/images/I/517HNbBCzVL.jpg",
@@ -777,7 +934,7 @@
     "mainimg": "https://m.media-amazon.com/images/I/61JjdIoAtgL._SL1500_.jpg",
     "dis": "92%",
     "total": "₹1,749",
-    "disprice": "₹280",
+    "disprice": "₹278",
     "slide": [
       "https://m.media-amazon.com/images/I/61JjdIoAtgL._SL1500_.jpg",
       "https://m.media-amazon.com/images/I/91aW3SBqgCL._SL1500_.jpg",
@@ -855,7 +1012,7 @@
     "mainimg": "https://m.media-amazon.com/images/I/61jRFfaYz5L._SL1500_.jpg",
     "dis": "92%",
     "total": "₹2,149",
-    "disprice": "₹349",
+    "disprice": "₹348",
     "slide": [
       "https://m.media-amazon.com/images/I/61jRFfaYz5L._SL1500_.jpg",
       "https://m.media-amazon.com/images/I/910mXq2i2PL._SL1500_.jpg",
@@ -928,91 +1085,12 @@
     ]
   },
   {
-    "id": "21",
-    "name": "Hawkins 3 Litre Contura Black Pressure Cooker, Hard Anodised Inner Lid Cooker, Handi Cooker, Black (CB30)",
-    "mainimg": "https://m.media-amazon.com/images/I/61xsscK90-L._SX522_.jpg",
-    "dis": "95%",
-    "total": "₹3,499",
-    "disprice": "₹387",
-    "slide": [
-      "https://m.media-amazon.com/images/I/61xsscK90-L._SX522_.jpg",
-      "https://m.media-amazon.com/images/I/61FzoEUcHDL._SX679_.jpg",
-      "https://m.media-amazon.com/images/I/71r1-FW-RFL._SX679_.jpg",
-      "https://m.media-amazon.com/images/I/611vygBfJ0L._SX679_.jpg",
-      "https://m.media-amazon.com/images/I/61BXlRLrFXL._SX679_.jpg",
-      "https://m.media-amazon.com/images/I/61JojZU6m4L._SX679_.jpg"
-    ],
-    "trending": true,
-    "reviews": [
-      {
-        "rating": 5,
-        "title": "Excellent quality and finish!",
-        "text": "The saucepan feels premium and cooks evenly. Cleaning is super easy, and it looks elegant on the table.",
-        "buyerName": "Anjali Rao",
-        "verified": true,
-        "location": "Pune",
-        "daysAgo": "1 day ago",
-        "images": [
-          "https://m.media-amazon.com/images/I/61xsscK90-L._SX522_.jpg"
-        ]
-      },
-      {
-        "rating": 4,
-        "title": "Worth every penny",
-        "text": "Build quality is top-notch. The lid fits snugly, and it retains heat well. Great for slow cooking.",
-        "buyerName": "Rahul Sharma",
-        "verified": true,
-        "location": "Delhi",
-        "daysAgo": "2 days ago",
-        "images": [
-          "https://m.media-amazon.com/images/I/61xsscK90-L._SX522_.jpg"
-        ]
-      },
-      {
-        "rating": 5,
-        "title": "Perfect for family meals",
-        "text": "Ideal size for cooking for 3–4 people. I’ve used it for gravies, soups, and rice — performs flawlessly.",
-        "buyerName": "Meena Gupta",
-        "verified": true,
-        "location": "Bangalore",
-        "daysAgo": "2 days ago",
-        "images": [
-          "https://m.media-amazon.com/images/I/61xsscK90-L._SX522_.jpg"
-        ]
-      },
-      {
-        "rating": 5,
-        "title": "Very durable and elegant",
-        "text": "Been using it daily for two weeks — absolutely love the non-stick performance and sleek design.",
-        "buyerName": "Vikas Jain",
-        "verified": true,
-        "location": "Jaipur",
-        "daysAgo": "1 day ago",
-        "images": [
-          "https://m.media-amazon.com/images/I/61xsscK90-L._SX522_.jpg"
-        ]
-      },
-      {
-        "rating": 4.5,
-        "title": "Good product for daily cooking",
-        "text": "The handle stays cool and comfortable to hold. A bit heavy, but that’s what makes it solid and reliable.",
-        "buyerName": "Priya Nair",
-        "verified": true,
-        "location": "Chennai",
-        "daysAgo": "1 day ago",
-        "images": [
-          "https://m.media-amazon.com/images/I/61xsscK90-L._SX522_.jpg"
-        ]
-      }
-    ]
-  },
-  {
     "id": "24",
     "name": "Orient Electric Areva Portable Room Heater | 2000W | Two Heating Modes | Advanced Overheat Protection | Horizontal & Vertical Mount | 1-year replacement warranty by Orient | White",
     "mainimg": "https://m.media-amazon.com/images/I/71QfC+NELFL._SL1500_.jpg",
     "dis": "92%",
     "total": "₹4,500",
-    "disprice": "₹495",
+    "disprice": "₹498",
     "slide": [
       "https://m.media-amazon.com/images/I/71QfC+NELFL._SL1500_.jpg",
       "https://m.media-amazon.com/images/I/81KkiQBJyzL._SL1500_.jpg",
@@ -1085,89 +1163,12 @@
     ]
   },
   {
-    "id": "5",
-    "name": "Elica Vetro Glass Top 4 Burner Auto Ignition Gas Stove (694 CT VETRO SS AI), Black",
-    "mainimg": "https://m.media-amazon.com/images/I/71RX6d+02hL._SL1500_.jpg",
-    "dis": "89%",
-    "total": "₹3,599",
-    "disprice": "₹399",
-    "slide": [
-      "https://m.media-amazon.com/images/I/71RX6d+02hL._SL1500_.jpg",
-      "https://m.media-amazon.com/images/I/41JG23kNZsL.jpg",
-      "https://m.media-amazon.com/images/I/81PvyDtut2L._SL1500_.jpg",
-      "https://m.media-amazon.com/images/I/814acYpRWGL._SL1500_.jpg"
-    ],
-    "trending": false,
-    "reviews": [
-      {
-        "rating": 5,
-        "title": "Excellent Design",
-        "text": "The burners heat up evenly and the glass top looks premium. Very happy with it!",
-        "buyerName": "Ritika Singh",
-        "verified": true,
-        "location": "Bangalore",
-        "daysAgo": "1 day ago",
-        "images": [
-          "https://m.media-amazon.com/images/I/71RX6d+02hL._SL1500_.jpg"
-        ]
-      },
-      {
-        "rating": 4,
-        "title": "Good for Daily Use",
-        "text": "Simple to clean and use. Perfect for everyday cooking in a small kitchen.",
-        "buyerName": "Arjun Mehta",
-        "verified": true,
-        "location": "Delhi",
-        "daysAgo": "2 days ago",
-        "images": [
-          "https://m.media-amazon.com/images/I/71RX6d+02hL._SL1500_.jpg"
-        ]
-      },
-      {
-        "rating": 5,
-        "title": "Highly Functional",
-        "text": "Auto ignition works flawlessly and the burners are efficient. Very satisfied!",
-        "buyerName": "Sneha Kapoor",
-        "verified": true,
-        "location": "Kolkata",
-        "daysAgo": "1 day ago",
-        "images": [
-          "https://m.media-amazon.com/images/I/71RX6d+02hL._SL1500_.jpg"
-        ]
-      },
-      {
-        "rating": 5,
-        "title": "Stylish & Durable",
-        "text": "Glass top gives a modern look. Sturdy and easy to maintain. Excellent purchase!",
-        "buyerName": "Rohan Pillai",
-        "verified": true,
-        "location": "Chennai",
-        "daysAgo": "2 days ago",
-        "images": [
-          "https://m.media-amazon.com/images/I/71RX6d+02hL._SL1500_.jpg"
-        ]
-      },
-      {
-        "rating": 4,
-        "title": "Value for Money",
-        "text": "Works well for my family of four. Looks elegant on the countertop.",
-        "buyerName": "Anita Sharma",
-        "verified": true,
-        "location": "Pune",
-        "daysAgo": "1 day ago",
-        "images": [
-          "https://m.media-amazon.com/images/I/71RX6d+02hL._SL1500_.jpg"
-        ]
-      }
-    ]
-  },
-  {
     "id": "3",
     "name": "LG 28 L Convection Microwave Oven (MC2846SL, Silver)",
     "mainimg": "https://m.media-amazon.com/images/I/71qaGnOxACL._SX679_.jpg",
     "dis": "92%",
     "total": "₹4,789",
-    "disprice": "₹395",
+    "disprice": "₹398",
     "slide": [
       "https://m.media-amazon.com/images/I/71qaGnOxACL._SX679_.jpg",
       "https://m.media-amazon.com/images/I/81pv6L-v-VL._SL1500_.jpg",
@@ -1244,7 +1245,7 @@
     "mainimg": "https://m.media-amazon.com/images/I/919+cmD3MsL._AC_SL1500_.jpg",
     "dis": "95%",
     "total": "₹3,199",
-    "disprice": "₹359",
+    "disprice": "₹358",
     "slide": [
       "https://m.media-amazon.com/images/I/919+cmD3MsL._AC_SL1500_.jpg",
       "https://m.media-amazon.com/images/I/81OxdRyOTqL._AC_SL1500_.jpg",
@@ -1321,7 +1322,7 @@
     "mainimg": "https://cdn.jiostore.online/v2/jmd-asp/jdprod/wrkr/products/pictures/item/free/resize-w:540/0XOObncN9k-havells-aqua-pl-1-2l-electric-kettle-491604628-i-1-1200wx1200h.jpeg",
     "dis": "96%",
     "total": "₹11,588",
-    "disprice": "₹399",
+    "disprice": "₹398",
     "slide": [
       "https://cdn.jiostore.online/v2/jmd-asp/jdprod/wrkr/products/pictures/item/free/resize-w:540/0XOObncN9k-havells-aqua-pl-1-2l-electric-kettle-491604628-i-1-1200wx1200h.jpeg",
       "https://m.media-amazon.com/images/I/61ZcR8oVtSL._SL1500_.jpg",
@@ -1399,7 +1400,7 @@
     "mainimg": "https://m.media-amazon.com/images/I/81vC9lOQfGL._AC_SL1500_.jpg",
     "dis": "91%",
     "total": "₹4,399",
-    "disprice": "₹449",
+    "disprice": "₹448",
     "slide": [
       "https://m.media-amazon.com/images/I/81vC9lOQfGL._AC_SL1500_.jpg",
       "https://m.media-amazon.com/images/I/81qHy174G8L._AC_SL1500_.jpg",
@@ -1476,7 +1477,7 @@
     "mainimg": "https://m.media-amazon.com/images/I/81yobRRV8nL._SL1500_.jpg",
     "dis": "95%",
     "total": "₹5,999",
-    "disprice": "₹249",
+    "disprice": "₹248",
     "slide": [
       "https://m.media-amazon.com/images/I/81yobRRV8nL._SL1500_.jpg",
       "https://m.media-amazon.com/images/I/71YfEtIYqDL._SL1280_.jpg",
@@ -1553,7 +1554,7 @@
     "mainimg": "https://m.media-amazon.com/images/I/81Wr7b2O0gL._AC_SL1500_.jpg",
     "dis": "96%",
     "total": "₹6,399",
-    "disprice": "₹499",
+    "disprice": "₹498",
     "slide": [
       "https://m.media-amazon.com/images/I/81Wr7b2O0gL._AC_SL1500_.jpg",
       "https://m.media-amazon.com/images/I/71lK5nphY+L._AC_SL1500_.jpg",
@@ -1630,7 +1631,7 @@
     "mainimg": "https://m.media-amazon.com/images/I/81uNog-p3vL._AC_SL1500_.jpg",
     "dis": "95%",
     "total": "₹6,520",
-    "disprice": "₹289",
+    "disprice": "₹288",
     "slide": [
       "https://m.media-amazon.com/images/I/81uNog-p3vL._AC_SL1500_.jpg",
       "https://m.media-amazon.com/images/I/61TNyS7Nc+L._AC_SL1500_.jpg",
@@ -1707,7 +1708,7 @@
     "mainimg": "https://m.media-amazon.com/images/I/61cAuha5eyL._SL1100_.jpg",
     "dis": "90%",
     "total": "₹3,544",
-    "disprice": "₹339",
+    "disprice": "₹338",
     "slide": [
       "https://m.media-amazon.com/images/I/61cAuha5eyL._SL1100_.jpg",
       "https://m.media-amazon.com/images/I/61Sy7kLwf2L._SL1100_.jpg",
@@ -1784,7 +1785,7 @@
     "mainimg": "https://m.media-amazon.com/images/I/61NY4+87cBL._SX679_.jpg",
     "dis": "91%",
     "total": "₹4,999",
-    "disprice": "₹399",
+    "disprice": "₹398",
     "slide": [
       "https://m.media-amazon.com/images/I/61NY4+87cBL._SX679_.jpg",
       "https://m.media-amazon.com/images/I/71k4WnUtRgL._SX679_.jpg",
@@ -1862,7 +1863,7 @@
     "mainimg": "https://m.media-amazon.com/images/I/61B8-nfHqlL._SX679_.jpg",
     "dis": "96%",
     "total": "₹8,588",
-    "disprice": "₹446",
+    "disprice": "₹448",
     "slide": [
       "https://m.media-amazon.com/images/I/61B8-nfHqlL._SX679_.jpg",
       "https://m.media-amazon.com/images/I/71iUwJrwloL._SX679_.jpg",
@@ -1940,7 +1941,7 @@
     "mainimg": "https://m.media-amazon.com/images/I/71rsVfDPlAL._SX679_.jpg",
     "dis": "93%",
     "total": "₹2,588",
-    "disprice": "₹387",
+    "disprice": "₹388",
     "slide": [
       "https://m.media-amazon.com/images/I/71rsVfDPlAL._SX679_.jpg",
       "https://m.media-amazon.com/images/I/816+WhFinRL._SX679_.jpg",
@@ -2018,7 +2019,7 @@
     "mainimg": "https://m.media-amazon.com/images/I/61PFe66oy6L._SX679_.jpg",
     "dis": "90%",
     "total": "₹3,158",
-    "disprice": "₹391",
+    "disprice": "₹398",
     "slide": [
       "https://m.media-amazon.com/images/I/61PFe66oy6L._SX679_.jpg",
       "https://m.media-amazon.com/images/I/717hdm19jgL._SX679_.jpg",
@@ -2096,7 +2097,7 @@
     "mainimg": "https://m.media-amazon.com/images/I/61k98EOwC2S._SX679_.jpg",
     "dis": "96%",
     "total": "₹11,588",
-    "disprice": "₹399",
+    "disprice": "₹398",
     "slide": [
       "https://m.media-amazon.com/images/I/61k98EOwC2S._SX679_.jpg",
       "https://m.media-amazon.com/images/I/71lDfB1vrmL._SX679_.jpg",
@@ -2174,7 +2175,7 @@
     "mainimg": "https://m.media-amazon.com/images/I/71oZ1-QYomL._SX679_.jpg",
     "dis": "91%",
     "total": "₹3,599",
-    "disprice": "₹387",
+    "disprice": "₹388",
     "slide": [
       "https://m.media-amazon.com/images/I/71oZ1-QYomL._SX679_.jpg",
       "https://m.media-amazon.com/images/I/718EMFqgAbL._SX679_.jpg",
@@ -2257,233 +2258,6 @@
         ]
       }
     ]
-  },
- {
-  "id": "21",
-  "name": "Men's Casual Sneakers - Comfortable Running Shoes",
-  "mainimg": "https://rukminim2.flixcart.com/image/612/612/xif0q/shoe/m/e/f/6-stylish-casual-sneakers-6-0-laxyash-beige-original-imahhacwxafwdzdn.jpeg?q=70",
-  "dis": "40%",
-  "total": "₹2,999",
-  "disprice": "₹1,799",
-  "discription": "Comfortable casual sneakers for daily wear",
-  "category": "shoes",
-  "sizes": [
-    { "size": "6", "inStock": true },
-    { "size": "7", "inStock": true },
-    { "size": "8", "inStock": true },
-    { "size": "9", "inStock": false },
-    { "size": "10", "inStock": true },
-    { "size": "11", "inStock": true }
-  ],
-  "slide": [
-    "https://rukminim2.flixcart.com/image/612/612/xif0q/shoe/m/e/f/6-stylish-casual-sneakers-6-0-laxyash-beige-original-imahhacwxafwdzdn.jpeg?q=70",
-    "https://rukminim2.flixcart.com/image/612/612/xif0q/shoe/2/q/i/6-9717-6-world-wear-footwear-green-original-imahgnspddfpp7uy.jpeg?q=70",
-    "https://rukminim2.flixcart.com/image/612/612/xif0q/shoe/g/8/p/6-rng-854-grey-40-bruton-grey-original-imahb2e63hhyb3hp.jpeg?q=70"
-  ],
-  "trending": true,
-  "reviews": []
-},
-  {
-    "id": "22",
-    "name": "Men's Cotton Casual Shirt - Slim Fit",
-    "mainimg": "https://rukminim2.flixcart.com/image/612/612/xif0q/shirt/p/5/e/l-uspimpln-u-s-pitchers-original-imahjqx7safwevc9.jpeg?q=70",
-    "dis": "35%",
-    "total": "₹1,499",
-    "disprice": "₹974",
-    "discription": "Premium cotton shirt, perfect for casual wear",
-    "category": "shirt",
-    "sizes": [
-      { "size": "S", "inStock": true },
-      { "size": "M", "inStock": true },
-      { "size": "L", "inStock": true },
-      { "size": "XL", "inStock": false },
-      { "size": "XXL", "inStock": true }
-    ],
-    "slide": [
-      "https://rukminim2.flixcart.com/image/612/612/xif0q/shirt/p/5/e/l-uspimpln-u-s-pitchers-original-imahjqx7safwevc9.jpeg?q=70"
-    ],
-    "trending": true,
-    "reviews": []
-  },
-  {
-    "id": "23",
-    "name": "Men's Slim Fit Jeans - Stretch Denim",
-    "mainimg": "https://rukminim2.flixcart.com/image/612/612/xif0q/jean/n/k/u/-original-imahcgkhgvd25fbs.jpeg?q=70",
-    "dis": "50%",
-    "total": "₹2,499",
-    "disprice": "₹1,249",
-    "discription": "Comfortable stretch denim jeans",
-    "category": "jeans",
-    "sizes": [
-      { "size": "28", "inStock": true },
-      { "size": "30", "inStock": false },
-      { "size": "32", "inStock": true },
-      { "size": "34", "inStock": true },
-      { "size": "36", "inStock": true },
-      { "size": "38", "inStock": true },
-      { "size": "40", "inStock": true },
-      { "size": "42", "inStock": false }
-    ],
-    "slide": [
-      "https://rukminim2.flixcart.com/image/612/612/xif0q/jean/n/k/u/-original-imahcgkhgvd25fbs.jpeg?q=70"
-    ],
-    "trending": true,
-    "reviews": []
-  },
-  {
-    "id": "25",
-    "name": "Men's Formal Oxford Shoes - Leather",
-    "mainimg": "https://imgs.search.brave.com/hLfdxeXFF5s0Kpg2B-Aumw9NThsCYUEqjAwEpdFHwuo/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9hc3Nl/dHMubXludGFzc2V0/cy5jb20vZHByXzIs/cV82MCx3XzIxMCxj/X2xpbWl0LGZsX3By/b2dyZXNzaXZlL2Fz/c2V0cy9pbWFnZXMv/MjkwMzE1NTQvMjAy/NC80LzE4L2YyOTA3/ZmU4LTMyNGEtNGI4/Ny04NWVmLTg2NjQx/ZjRlZDk3ODE3MTM0/MTc5NTE3NjNNZW5M/ZWF0aGVyRm9ybWFs/U2hvZXMxLmpwZw",
-    "dis": "30%",
-    "total": "₹4,999",
-    "disprice": "₹3,499",
-    "discription": "Classic leather oxford shoes for office and formal occasions",
-    "category": "shoes",
-    "sizes": [
-      { "size": "7", "inStock": true },
-      { "size": "8", "inStock": true },
-      { "size": "9", "inStock": true },
-      { "size": "10", "inStock": false },
-      { "size": "11", "inStock": true }
-    ],
-    "slide": [
-      "https://imgs.search.brave.com/hLfdxeXFF5s0Kpg2B-Aumw9NThsCYUEqjAwEpdFHwuo/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9hc3Nl/dHMubXludGFzc2V0/cy5jb20vZHByXzIs/cV82MCx3XzIxMCxj/X2xpbWl0LGZsX3By/b2dyZXNzaXZlL2Fz/c2V0cy9pbWFnZXMv/MjkwMzE1NTQvMjAy/NC80LzE4L2YyOTA3/ZmU4LTMyNGEtNGI4/Ny04NWVmLTg2NjQx/ZjRlZDk3ODE3MTM0/MTc5NTE3NjNNZW5M/ZWF0aGVyRm9ybWFs/U2hvZXMxLmpwZw"
-    ],
-    "trending": false,
-    "reviews": []
-  },
-  {
-    "id": "26",
-    "name": "Women's Floral Print Casual Shirt",
-    "mainimg": "https://rukminim2.flixcart.com/image/612/612/xif0q/shirt/n/i/u/xs-ai1730-10-ekasya-original-imahesyvffhu2b2u.jpeg?q=70",
-    "dis": "55%",
-    "total": "₹1,299",
-    "disprice": "₹584",
-    "discription": "Comfortable floral print shirt for casual wear",
-    "category": "shirt",
-    "sizes": [
-      { "size": "XS", "inStock": true },
-      { "size": "S", "inStock": true },
-      { "size": "M", "inStock": true },
-      { "size": "L", "inStock": true },
-      { "size": "XL", "inStock": true },
-      { "size": "XXL", "inStock": false }
-    ],
-    "slide": [
-      "https://rukminim2.flixcart.com/image/612/612/xif0q/shirt/n/i/u/xs-ai1730-10-ekasya-original-imahesyvffhu2b2u.jpeg?q=70"
-    ],
-    "trending": true,
-    "reviews": []
-  },
-  {
-    "id": "27",
-    "name": "Men's Checkered Formal Shirt",
-    "mainimg": "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-shirt/e/a/j/m-shgreychecks-surhi-original-imahgwmzpka8h76u.jpeg?q=70",
-    "dis": "40%",
-    "total": "₹1,799",
-    "disprice": "₹1,079",
-    "discription": "Premium cotton checkered shirt for office and formal wear",
-    "category": "shirt",
-    "sizes": [
-      { "size": "S", "inStock": true },
-      { "size": "M", "inStock": true },
-      { "size": "L", "inStock": false },
-      { "size": "XL", "inStock": true },
-      { "size": "XXL", "inStock": true }
-    ],
-    "slide": [
-      "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-shirt/e/a/j/m-shgreychecks-surhi-original-imahgwmzpka8h76u.jpeg?q=70"
-    ],
-    "trending": true,
-    "reviews": []
-  },
-  {
-    "id": "27",
-    "name": "Men's Casual T-Shirt - Solid Color",
-    "mainimg": "https://rukminim2.flixcart.com/image/612/612/xif0q/t-shirt/s/q/r/m-bkpln-hlftst-larry-eva-original-imahh27vj532rmqh.jpeg?q=70",
-    "dis": "60%",
-    "total": "₹599",
-    "disprice": "₹239",
-    "discription": "Soft cotton t-shirt for everyday casual wear",
-    "category": "shirt",
-    "sizes": [
-      { "size": "S", "inStock": true },
-      { "size": "M", "inStock": true },
-      { "size": "L", "inStock": true },
-      { "size": "XL", "inStock": true },
-      { "size": "XXL", "inStock": true }
-    ],
-    "slide": [
-      "https://rukminim2.flixcart.com/image/612/612/xif0q/t-shirt/s/q/r/m-bkpln-hlftst-larry-eva-original-imahh27vj532rmqh.jpeg?q=70"
-    ],
-    "trending": true,
-    "reviews": []
-  },
-  {
-    "id": "28",
-    "name": "Women's High-Waist Slim Jeans",
-    "mainimg": "https://rukminim2.flixcart.com/image/612/612/xif0q/jean/k/u/k/30-fl-gl-slim-fit-jeans-silver-threads-original-imahe7fkkedmdhey.jpeg?q=70",
-    "dis": "48%",
-    "total": "₹2,299",
-    "disprice": "₹1,195",
-    "discription": "Comfortable high-waist slim fit jeans for women",
-    "category": "jeans",
-    "sizes": [
-      { "size": "26", "inStock": true },
-      { "size": "28", "inStock": true },
-      { "size": "30", "inStock": true },
-      { "size": "32", "inStock": false },
-      { "size": "34", "inStock": true }
-    ],
-    "slide": [
-      "https://rukminim2.flixcart.com/image/612/612/xif0q/jean/k/u/k/30-fl-gl-slim-fit-jeans-silver-threads-original-imahe7fkkedmdhey.jpeg?q=70"
-    ],
-    "trending": true,
-    "reviews": []
-  },
-  {
-    "id": "29",
-    "name": "Men's Regular Fit Cargo Jeans",
-    "mainimg": "https://m.media-amazon.com/images/I/71oZ1-QYomL._SX679_.jpg",
-    "dis": "42%",
-    "total": "₹2,799",
-    "disprice": "₹1,623",
-    "discription": "Durable cargo jeans with multiple pockets",
-    "category": "jeans",
-    "sizes": [
-      { "size": "28", "inStock": true },
-      { "size": "30", "inStock": true },
-      { "size": "32", "inStock": true },
-      { "size": "34", "inStock": true },
-      { "size": "36", "inStock": false },
-      { "size": "38", "inStock": true }
-    ],
-    "slide": [
-      "https://m.media-amazon.com/images/I/71oZ1-QYomL._SX679_.jpg"
-    ],
-    "trending": false,
-    "reviews": []
-  },
-  {
-    "id": "30",
-    "name": "Women's Bootcut Jeans - Classic Denim",
-    "mainimg": "https://m.media-amazon.com/images/I/61k98EOwC2S._SX679_.jpg",
-    "dis": "35%",
-    "total": "₹1,499",
-    "disprice": "₹974",
-    "discription": "Classic bootcut jeans for a timeless look",
-    "category": "jeans",
-    "sizes": [
-      { "size": "26", "inStock": true },
-      { "size": "28", "inStock": true },
-      { "size": "30", "inStock": true },
-      { "size": "32", "inStock": true },
-      { "size": "34", "inStock": true }
-    ],
-    "slide": [
-      "https://m.media-amazon.com/images/I/61k98EOwC2S._SX679_.jpg"
-    ],
-    "trending": true,
-    "reviews": []
   }
+  
 ]
